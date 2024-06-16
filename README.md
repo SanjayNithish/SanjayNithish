@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Portfolio**
  
- 👨‍💻 All of my projects are available at [https://sanjaynithish.netlify.app/](https://sanjaynithish.netlify.app/)
+ 👨‍💻 Projects are available at [https://sanjaynithish.netlify.app/](https://sanjaynithish.netlify.app/)
  
  🌱 I’m currently learning **React Native**
 
